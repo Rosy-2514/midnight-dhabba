@@ -1,0 +1,22 @@
+{
+  "name": "v4-midnight-dhabha",
+  "version": "1.0.0",
+  "description": "V4 Midnight Dhabha website and reservation system",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "restaurant",
+    "dhaba",
+    "chennai",
+    "rooftop"
+  ],
+  "author": "V4 Midnight Dhabha",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.2.11"
+  }
+}
